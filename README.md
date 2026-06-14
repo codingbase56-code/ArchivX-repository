@@ -12,6 +12,7 @@ of book return, because it acts as a verifier to check whether the authentic use
 4. Returning the books
 5. The pass
 6. The overall information of books available and issued in the form of a dialog box.
+
 Suggestions and feedbacks are always welcome. I think that this project has elevated my knowledge about Java Swing and file handling. It has also taught me a piece of important
 things that are: Crtical thinking, spatial thinking, Creativity and Problem solving.
 
