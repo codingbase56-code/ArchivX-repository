@@ -30,7 +30,7 @@ static ArrayList<String> as;
         frame.setBackground(Color.white);
         frame.setSize(Toolkit.getDefaultToolkit().getScreenSize());
         frame.setTitle("ArchivX");
-        frame.setIconImage(new ImageIcon("C:\\Users\\ashut\\IdeaProjects\\JavaSwingAndProjects\\src\\arch.png").getImage());
+        frame.setIconImage(new ImageIcon(getClass().getResource("/arch.png")).getImage());
 //        System.out.println(new File("C:\\Users\\ashut\\IdeaProjects\\JavaSwingAndProjects\\src\\arch.png").exists());
         ArrayList<String> string=read();
         ArrayList<Integer> burrower_passes=read1();
